@@ -6,9 +6,9 @@ Team: Roshney, James, Daewoon, Nisarg P., Tony
 These are the environment variables required to run the API.
 ### Maps/Payments API
 `MAPS_API_KEY`
-The access key for Google Maps API
+The access key for Google Maps API.  
 `STRIPE_KEY`
-The access key for Stripe API
+The access key for Stripe API.  
 ### Notification API
 `EMAIL_USER`
 The email username used by the API.  
@@ -22,13 +22,13 @@ The access token for the Twilio API.
 The phone number being used to send SMS messages.
 ### Delivery API
 `DB_USER`
-The username for the database login.
+The username for the database login.  
 `DB_PASSWORD`
-The password for the database login.
+The password for the database login.  
 `DB_URL`
-The JDBC mysql url to access the database.
+The JDBC mysql url to access the database.  
 `DIRECTIONS_API_URL`
-The URL for the directions API.
+The URL for the directions API.  
 `NOTIFICATION_API_URL`
-The URL of the notification API.
+The URL of the notification API.  
 
